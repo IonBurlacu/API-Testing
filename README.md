@@ -1,7 +1,7 @@
 # API-Testing
 *API Testing with Postman*
 
-## Chuck Norris jokes
+## 1. Chuck Norris jokes
 ### Animal jokes
 
 (https://user-images.githubusercontent.com/104923463/168488041-f7c30991-7a21-47a6-b9c7-4c2d3c7651b0.jpg)
@@ -18,7 +18,7 @@
     "value": "Chuck Norris does not own a house. He walks into random houses and people move."
 }*
 
-## CoinMarketCap
+## 2. CoinMarketCap
 ### RON quotation
 
 (https://user-images.githubusercontent.com/104923463/168488279-eb300254-5736-4e0b-bebe-84527ce11e9d.jpg)
@@ -72,7 +72,7 @@
     }
 }*
 
-## CRUD Tests
+## 3. CRUD Tests
 ### Read all
 
 (https://user-images.githubusercontent.com/104923463/168488770-15a6481b-958e-49ce-b912-1a1f57d19674.jpg)
@@ -165,7 +165,7 @@
     }
 ]*
 
-## Wall Street Journal news
+## 4. Wall Street Journal news
 
 (https://user-images.githubusercontent.com/104923463/168488951-a86fc5ee-3c81-4b3a-bbbd-98c2efbe6c82.jpg)
 
@@ -436,7 +436,7 @@
     ]
 }*
                
-## Maine weather 
+## 5. Maine(USA) weather 
 ### Three days forecast
 
 (https://user-images.githubusercontent.com/104923463/168489331-76601f62-897a-4567-8c42-f9b18f8e268a.jpg)
