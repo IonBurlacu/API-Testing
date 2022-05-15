@@ -1,11 +1,12 @@
 # API-Testing
 *API Testing with Postman*
 
-## Chuck Norris jokes. Animal jokes.
+## Chuck Norris jokes
+### Animal jokes
 
 (https://user-images.githubusercontent.com/104923463/168488041-f7c30991-7a21-47a6-b9c7-4c2d3c7651b0.jpg)
 
-*{
+#### *{
     "categories": [
         "animal"
     ],
@@ -17,11 +18,12 @@
     "value": "Chuck Norris does not own a house. He walks into random houses and people move."
 }*
 
-## CoinMarketCap. RON quotation.
+## CoinMarketCap
+### RON quotation
 
 (https://user-images.githubusercontent.com/104923463/168488279-eb300254-5736-4e0b-bebe-84527ce11e9d.jpg)
 
-*{
+#### *{
     "status": {
         "timestamp": "2022-05-15T18:26:43.614Z",
         "error_code": 0,
@@ -70,11 +72,12 @@
     }
 }*
 
-## CRUD Tests. Read all.
+## CRUD Tests
+### Read all
 
 (https://user-images.githubusercontent.com/104923463/168488770-15a6481b-958e-49ce-b912-1a1f57d19674.jpg)
 
-*[
+#### *[
     {
         "id": "169",
         "first_name": "Mihaela",
@@ -162,11 +165,11 @@
     }
 ]*
 
-## Wall Street Journal news.
+## Wall Street Journal news
 
 (https://user-images.githubusercontent.com/104923463/168488951-a86fc5ee-3c81-4b3a-bbbd-98c2efbe6c82.jpg)
 
-*{
+#### *{
     "status": "ok",
     "totalResults": 524,
     "articles": [
@@ -433,7 +436,149 @@
     ]
 }*
                
-## Maine weather, 3 days forecast.
-                
+## Maine weather 
+### Three days forecast
+
+(https://user-images.githubusercontent.com/104923463/168489331-76601f62-897a-4567-8c42-f9b18f8e268a.jpg)
+
+#### *{
+    "cod": "200",
+    "message": 0,
+    "cnt": 3,
+    "list": [
+        {
+            "dt": 1652648400,
+            "main": {
+                "temp": 296.53,
+                "feels_like": 296.7,
+                "temp_min": 294.68,
+                "temp_max": 296.53,
+                "pressure": 1002,
+                "sea_level": 1002,
+                "grnd_level": 977,
+                "humidity": 68,
+                "temp_kf": 1.85
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": {
+                "all": 80
+            },
+            "wind": {
+                "speed": 2.8,
+                "deg": 275,
+                "gust": 5.34
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "rain": {
+                "3h": 2.36
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2022-05-15 21:00:00"
+        },
+        {
+            "dt": 1652659200,
+            "main": {
+                "temp": 293.76,
+                "feels_like": 293.99,
+                "temp_min": 291.91,
+                "temp_max": 293.76,
+                "pressure": 1006,
+                "sea_level": 1006,
+                "grnd_level": 977,
+                "humidity": 81,
+                "temp_kf": 1.85
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": {
+                "all": 89
+            },
+            "wind": {
+                "speed": 1.24,
+                "deg": 266,
+                "gust": 1.28
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "rain": {
+                "3h": 1.28
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2022-05-16 00:00:00"
+        },
+        {
+            "dt": 1652670000,
+            "main": {
+                "temp": 289.49,
+                "feels_like": 289.63,
+                "temp_min": 289.49,
+                "temp_max": 289.49,
+                "pressure": 1009,
+                "sea_level": 1009,
+                "grnd_level": 977,
+                "humidity": 94,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "clouds": {
+                "all": 97
+            },
+            "wind": {
+                "speed": 1.15,
+                "deg": 244,
+                "gust": 1.11
+            },
+            "visibility": 10000,
+            "pop": 0.33,
+            "rain": {
+                "3h": 0.14
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2022-05-16 03:00:00"
+        }
+    ],
+    "city": {
+        "id": 5110365,
+        "name": "Maine",
+        "coord": {
+            "lat": 42.1926,
+            "lon": -76.061
+        },
+        "country": "US",
+        "population": 200600,
+        "timezone": -14400,
+        "sunrise": 1652607800,
+        "sunset": 1652660282
+    }
+}*
+
+
                 
      
