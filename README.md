@@ -2,6 +2,8 @@
 *API Testing with Postman*
 
 ## Chuck Norris jokes. Animal joke.
+(https://user-images.githubusercontent.com/104923463/168487885-cba6ca7b-ac6f-496e-98fe-74d73d3756ee.jpg)
+
 *{
     "categories": [
         "animal"
