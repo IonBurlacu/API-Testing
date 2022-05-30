@@ -22,7 +22,8 @@
 ## 2. CoinMarketCap
 ### RON quotation
 
-(https://user-images.githubusercontent.com/104923463/168488279-eb300254-5736-4e0b-bebe-84527ce11e9d.jpg)
+![API2](https://user-images.githubusercontent.com/104923463/171033455-87f1d0af-7366-47c7-9248-0d21ea471a2f.jpg)
+
 
 #### *{
     "status": {
@@ -76,7 +77,8 @@
 ## 3. CRUD Tests
 ### Read all
 
-(https://user-images.githubusercontent.com/104923463/168488770-15a6481b-958e-49ce-b912-1a1f57d19674.jpg)
+![API3](https://user-images.githubusercontent.com/104923463/171033490-102c0fb9-be73-4896-84b7-abf748ed52a9.jpg)
+
 
 #### *[
     {
@@ -168,7 +170,8 @@
 
 ## 4. Wall Street Journal news
 
-(https://user-images.githubusercontent.com/104923463/168488951-a86fc5ee-3c81-4b3a-bbbd-98c2efbe6c82.jpg)
+![API4](https://user-images.githubusercontent.com/104923463/171033517-357c728b-b389-4011-ba3b-1cc9f1b8ed96.jpg)
+
 
 #### *{
     "status": "ok",
@@ -440,7 +443,8 @@
 ## 5. Maine(USA) weather 
 ### Three days forecast
 
-(https://user-images.githubusercontent.com/104923463/168489331-76601f62-897a-4567-8c42-f9b18f8e268a.jpg)
+![API5](https://user-images.githubusercontent.com/104923463/171033569-b5e6ca69-9713-4615-9592-d1484f95a8cc.jpg)
+
 
 #### *{
     "cod": "200",
